@@ -1,0 +1,212 @@
+[
+  {
+    "path": "/_next/static/chunks/fd9d1056-69850f1deeb641a3.js",
+    "size": 172832,
+    "type": "asset"
+  },
+  {
+    "path": "/_next/static/chunks/8124-ff5f1781ad39ecbf.js",
+    "size": 153488,
+    "type": "asset"
+  },
+  {
+    "path": "/_next/static/chunks/7023-848be0f4b5a52010.js",
+    "size": 123446,
+    "type": "asset"
+  },
+  {
+    "path": "/_next/static/chunks/4539-03f7e7c00ca8497f.js",
+    "size": 98553,
+    "type": "asset"
+  },
+  {
+    "path": "/conditions/sleep-disturbance",
+    "size": 94760,
+    "type": "page"
+  },
+  {
+    "path": "/conditions/anxiety",
+    "size": 94710,
+    "type": "page"
+  },
+  {
+    "path": "/conditions/stress",
+    "size": 94705,
+    "type": "page"
+  },
+  {
+    "path": "/conditions/migraine",
+    "size": 94621,
+    "type": "page"
+  },
+  {
+    "path": "/conditions/hair-fall",
+    "size": 94617,
+    "type": "page"
+  },
+  {
+    "path": "/conditions/thyroid",
+    "size": 94616,
+    "type": "page"
+  },
+  {
+    "path": "/conditions/alopecia",
+    "size": 94612,
+    "type": "page"
+  },
+  {
+    "path": "/conditions/dandruff",
+    "size": 94612,
+    "type": "page"
+  },
+  {
+    "path": "/conditions/allergies",
+    "size": 94345,
+    "type": "page"
+  },
+  {
+    "path": "/conditions/eczema",
+    "size": 94330,
+    "type": "page"
+  },
+  {
+    "path": "/conditions/acne",
+    "size": 94320,
+    "type": "page"
+  },
+  {
+    "path": "/conditions/behavioral-support",
+    "size": 94138,
+    "type": "page"
+  },
+  {
+    "path": "/conditions/low-immunity",
+    "size": 94108,
+    "type": "page"
+  },
+  {
+    "path": "/conditions/immunity",
+    "size": 94088,
+    "type": "page"
+  },
+  {
+    "path": "/conditions/sinus",
+    "size": 93688,
+    "type": "page"
+  },
+  {
+    "path": "/_next/static/chunks/polyfills-78c92fac7aa8fdd8.js",
+    "size": 91381,
+    "type": "asset"
+  },
+  {
+    "path": "/case-studies",
+    "size": 83447,
+    "type": "page"
+  },
+  {
+    "path": "/doctor",
+    "size": 77164,
+    "type": "page"
+  },
+  {
+    "path": "/_next/static/chunks/app/page-3bca5996ed3d82ab.js",
+    "size": 68295,
+    "type": "asset"
+  },
+  {
+    "path": "/blog",
+    "size": 61561,
+    "type": "page"
+  },
+  {
+    "path": "/_next/static/chunks/8472-9cb7dab604e9415a.js",
+    "size": 58211,
+    "type": "asset"
+  },
+  {
+    "path": "/_next/static/chunks/app/layout-aa67289cf0bf52fa.js",
+    "size": 37072,
+    "type": "asset"
+  },
+  {
+    "path": "/",
+    "size": 34440,
+    "type": "page"
+  },
+  {
+    "path": "/_next/static/chunks/8693-71b4cc7b2a8b72f4.js",
+    "size": 31223,
+    "type": "asset"
+  },
+  {
+    "path": "/_next/static/chunks/4562-26fbd61ed7c23f33.js",
+    "size": 24866,
+    "type": "asset"
+  },
+  {
+    "path": "/_next/static/chunks/231-2fa25a208fd98a28.js",
+    "size": 20537,
+    "type": "asset"
+  },
+  {
+    "path": "/_next/static/chunks/8e1d74a4-0b60dd8d24f46fdf.js",
+    "size": 16782,
+    "type": "asset"
+  },
+  {
+    "path": "/_next/static/chunks/8079-26a8fdf16aaebc5b.js",
+    "size": 15964,
+    "type": "asset"
+  },
+  {
+    "path": "/_next/static/chunks/6648-469f291219c3bcd4.js",
+    "size": 13724,
+    "type": "asset"
+  },
+  {
+    "path": "/_next/static/chunks/1072-66b8fc6a6524cfe3.js",
+    "size": 12801,
+    "type": "asset"
+  },
+  {
+    "path": "/_next/static/chunks/2869-1ad1d9c1c80436e0.js",
+    "size": 9496,
+    "type": "asset"
+  },
+  {
+    "path": "/_next/static/chunks/3883-7dd1255361a71ce7.js",
+    "size": 6694,
+    "type": "asset"
+  },
+  {
+    "path": "/_next/static/chunks/385cb88d-76281917becbdfdc.js",
+    "size": 5440,
+    "type": "asset"
+  },
+  {
+    "path": "/_next/static/chunks/app/not-found-2aeeba19d3c02837.js",
+    "size": 4787,
+    "type": "asset"
+  },
+  {
+    "path": "/_next/static/chunks/795d4814-57a90b0a8418a51e.js",
+    "size": 4424,
+    "type": "asset"
+  },
+  {
+    "path": "/_next/static/chunks/webpack-c6a8fffbf68ca49e.js",
+    "size": 4171,
+    "type": "asset"
+  },
+  {
+    "path": "/_next/static/chunks/fca4dd8b-9d6f1fff68e560a1.js",
+    "size": 474,
+    "type": "asset"
+  },
+  {
+    "path": "/_next/static/chunks/main-app-881f01dbe13267cd.js",
+    "size": 466,
+    "type": "asset"
+  }
+]
